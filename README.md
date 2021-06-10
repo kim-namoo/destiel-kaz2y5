@@ -5,8 +5,10 @@
  
  члены команды:
  
- Шадрина Юлия - Project Manager + Release Manager + Developer
+ Шадрина Юлия - Project Manager + Release Manager 
  
- Брюхова Елена - Business analyst + Tester + Developer
+ Брюхова Елена - Business analyst + Tester
  
  Бакирова Диана - Architect + Developer
+
+ Килина Анастасия - Developer 
